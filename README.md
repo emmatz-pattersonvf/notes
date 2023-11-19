@@ -12,3 +12,6 @@ Let's GO
 
 # 2023-11-18
 - "Programming wisdom for today: Always strive to write clean, maintainable code that is easy to understand and debug. Remember that comments are important, but good code should be self-documenting. Test your code thoroughly and often, and don't be afraid to refactor when necessary. Finally, always keep learning and stay up-to-date with the latest best practices and technologies in your field."
+
+# 2023-11-19
+- "Keep it simple, stupid!"
