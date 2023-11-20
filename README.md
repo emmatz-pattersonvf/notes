@@ -15,3 +15,6 @@ Let's GO
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Today's programming wisdom is to focus on writing clean, maintainable, and reusable code. It's important to consider the long-term implications of your code and how it will be used in the future. Take the time to properly document your code and use best practices to ensure that it can be easily understood and modified by others. Remember, programming is not just about solving problems, but also about creating solutions that can be built upon and extended over time."
