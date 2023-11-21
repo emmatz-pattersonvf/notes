@@ -18,3 +18,10 @@ Let's GO
 
 # 2023-11-20
 - "Today's programming wisdom is to focus on writing clean, maintainable, and reusable code. It's important to consider the long-term implications of your code and how it will be used in the future. Take the time to properly document your code and use best practices to ensure that it can be easily understood and modified by others. Remember, programming is not just about solving problems, but also about creating solutions that can be built upon and extended over time."
+
+# 2023-11-21
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress towards your goals.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a task, take the time to plan out your approach. Think about the steps you needto take, the resources you will need,and the potential challenges you may encounter. Having a clear plan in place will make it easier to stay focused and avoid getting sidetracked. 
+ <p>Finally, staying organized is essential for maintaining a high level of productivity. Use version control systems, like Git, to keep track of your code and collaborate with others. Organize your project folders and files logically, using clear naming conventions and commenting yourcode well. Additionally, use task management tools, such as Trello or Asana,to keep your to-do list up-to-date and to track your progress.</p>
+总之，今天的智慧是：优先处理任务，提前计划并保持组织。这将帮助您在编程任务中更高效和富有成效。
