@@ -34,3 +34,6 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 # 2023-11-24
 - "Programming wisdom for today: Always comment your code. It's not only helpful for others who may read it, but also for your future self when you revisit the project. Clear and concise comments can save a lot of time and headaches in the long run."
+
+# 2023-11-25
+- "Keep it simple, stupid!"
