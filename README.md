@@ -37,3 +37,8 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
+
+This quote highlights the ongoing challenge that programmers face in creating user-friendly and robust software, while also acknowledging the ever-evolving nature of technology and the potential for unexpected user behavior. It serves as a reminder to continually adapt and improve our programming skills in order to stay ahead in this race.
