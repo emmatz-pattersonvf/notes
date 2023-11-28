@@ -45,3 +45,8 @@ This quote highlights the ongoing challenge that programmers face in creating us
 
 # 2023-11-27
 - "Keep it simple, stupid!"
+
+# 2023-11-28
+- "Every line of code you write is a liability. Remove unnecessary code, and make the necessary code as simple as possible." - Sandi Metz. 
+
+This quote emphasizes the importance of writing clean, concise, and maintainable code. Every line of code we write increases the complexity of our software and makes it harder to understand, modify, and debug in the future. Therefore, it's important to constantly strive for simplicity and remove any code that doesn't serve a clear purpose. This not only makes our code easier to work with, but also reduces the risk of introducing bugs and security vulnerabilities.
