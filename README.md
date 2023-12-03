@@ -64,3 +64,6 @@ This quote highlights the ongoing challenge that programmers face in creating us
 
 # 2023-12-02
 - "Keep it simple, stupid!"
+
+# 2023-12-03
+- Today's programming wisdom is to write code that is easy to read and understand, not just by yourself but also by others who may need to work with it in the future. This means using clear and descriptive variable names, commenting your code effectively, and organizing your code into logical modules or functions. Remember that code is read far more often than it is written, so investing time in making it readable will pay off in the long run. Additionally, writing code that is easy to understand makes it easier to debug and maintain, saving you time and effort down the line.
