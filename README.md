@@ -111,3 +111,8 @@ To achieve this, it'll be essential to develop a growth mindset. View mistakes a
 
 # 2023-12-13
 - "Keep it simple, stupid!"
+
+# 2023-12-14
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to unnecessary complexity, harder-to-maintain code, and potentially worse performance. It's important to first write clear, correct code that meets requirements, and then optimize only if profiling indicates a specific bottleneck.
