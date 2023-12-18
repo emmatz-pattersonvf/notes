@@ -129,3 +129,9 @@ Optimizing code before it's necessary can lead to unnecessary complexity, harder
 Second, planning ahead is crucial. Think about the bigger picture and what you need to achieve in the long run. Break down your project into smaller, manageable tasks. Then, allocate time and resources to each task to ensure a smooth and efficient process. Planning ahead can also help prevent last-minute panic and stress. 
  <p>
 Finally, stay organised. Use version control systems like Git to keep track of your code and collaborate with others. Keep your workspace clean and tidy, with well-organised files and folders. Using tools like task managers, calendars, or lists can help keep you on track and make sure you don't forget anything important. Remember, being organised is not only about efficiency but also about reducing stress and improving your overall work-life balance.
+
+# 2023-12-18
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the things that matter most.
+
+Next, use a scheduling tool or plan to allocate time to each task. Allocating time helps you stay focused and prevents you from getting lost in tasks that don't matter as much. You can use tools like Todoist, Trello, or Google Calendar to schedule your day and keep track of tasks. 
+ - 来自Helpful Assistant
