@@ -291,3 +291,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2024-01-17
 - "Keep it simple, stupid!"
+
+# 2024-01-18
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary and after profiling. Remember that simplicity, readability, and modularity often lead to more efficient programs in the long run." 
+
+In other words, avoid over-engineering or trying to optimize your code too early in the development process without evidence that it's needed. This approach saves time, reduces complexity, and makes your codebase easier to understand and improve upon later.
