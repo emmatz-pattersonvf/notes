@@ -421,3 +421,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2024-02-11
 - "Keep it simple, stupid!"
+
+# 2024-02-12
+- "Today's programming wisdom is to remember that code is read far more often than it's written. Strive for clarity and simplicity in your work, making it easily understandable and maintainable by others. Invest time in writing self-explanatory and well-documented code, as it enhances collaboration, reduces bugs, and accelerates development in the long run." 
+
+In practice, this means adhering to principles such as DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), and SOLID object-oriented design. It also involves using meaningful variable names, commenting complex logic, and structuring your code in a modular and coherent way. Lastly, always consider the context and potential future changes when writing code today.
