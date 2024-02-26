@@ -488,3 +488,8 @@ In practical terms, this means choosing clear names for variables and functions,
 
 # 2024-02-25
 - "Keep it simple, stupid!"
+
+# 2024-02-26
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, maintainable code first. Optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In more words: Spend your time wisely; understand the problem thoroughly, structure your code well, and avoid trying to optimize before you fully understand where the bottlenecks are. Overcomplicating things early on can introduce unnecessary bugs and make the codebase harder to work with.
